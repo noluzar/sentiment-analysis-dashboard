@@ -1,0 +1,6 @@
+{
+  "name": "Sentiment Analysis Dashboard",
+  "description": "An interactive dashboard that analyzes sentiment in text data, enabling users to understand emotional tone in customer reviews, social media posts, or other text content. It provides multi-class sentiment classification, confidence scores, keyword extraction, and visualizations.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
